@@ -1,0 +1,15 @@
+a:hover {
+    color:lightblue;
+}
+
+a:active{
+    color: red;
+}
+
+a:visited {
+    color: yellow;
+}
+
+a:focus {
+    color: purple;
+}
